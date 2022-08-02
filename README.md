@@ -2,16 +2,14 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Computer science student from Russia</h3>
 
-[![CodeWars](https://www.codewars.com/users/Phizis/badges/micro)](https://www.codewars.com/users/Phizis)
-
-🌱 I’m currently learning C++ and Qt framework
+🌱 I’m currently learning C# and Unity
 
 📫 How to reach me kabanovcontact@gmail.com
 
 🌍 I speak Russian (native), English (not certified)
 
 🤖 Languages:
-C++
+C++, C#
 
 🧰 My Tools:
-CLion, Visual Studio 2022, Qt 5.15.2, MySQL 8.0
+Unity, Visual Studio 2022, CLion, Qt 5.15.2, MySQL 8.0
