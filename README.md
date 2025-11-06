@@ -1,16 +1,35 @@
-Hi 👋 I'm Roman Kabanov — **Analytics Engineer & BI Specialist** from Novosibirsk, Russia.
+# Роман Кабанов  
+**BI-аналитик | Analytics Engineer**  
+*Новосибирск • kabanovcontact@gmail.com • [Портфолио в DataLens](https://datalens.yandex/ng5sj4tcxghsa)*  
 
-I design and implement **end-to-end analytics platforms** for mid-sized and large businesses:
-- **Data integration**: ETL/ELT pipelines from CRM, ads, and APIs (Python, Airbyte)
-- **Data modeling**: Star schema, fact/dim tables, aggregated marts
-- **DWH layer**: PostgreSQL (staging) → **ClickHouse** (analytics-optimized)
-- **BI & Visualization**: Yandex DataLens (with RLS), Looker Studio, Apache Superset
-- **Infrastructure**: Git-versioned SQL, YAML configs, documentation as code
+---
 
-I don’t just build dashboards — I build **scalable, reusable systems** that replace manual reporting and empower data-driven decisions.
+<details>
+<summary>🇷🇺 Русский (нажмите, чтобы развернуть)</summary>
 
-🔗 **Portfolio & live dashboards**: https://datalens.yandex/ng5sj4tcxghsa  
-📧 **Reach me**: kabanovcontact@gmail.com  
-💼 **Open to**: Analytics Engineer, Senior BI Analyst, Data Consultant roles (remote)
+> **Строю аналитические платформы «под ключ» — от сбора данных до дашбордов, которыми пользуется CEO.**  
+> Заменяю ручные отчёты на масштабируемые витрины, ускоряю принятие решений, внедряю data-driven культуру.
 
-#ClickHouse #DataLens #Airbyte #SQL #Python #DWH #ETL #AnalyticsEngineering
+**Технологии:**  
+`PostgreSQL` • `Python (requests, sqlalchemy)` • `Yandex DataLens (RLS)` • `ETL` • `SQL (UPSERT, CTE)` • `REST API` • `cron` • `Git`
+
+**Открыт к предложениям:** Analytics Engineer, Senior BI Analyst, Data Consultant (удалённо)
+
+</details>
+
+<details>
+<summary>🇬🇧 English (click to expand)</summary>
+
+> **I build end-to-end analytics platforms** — from data integration to C-level dashboards.  
+> Replace manual reporting with scalable, real-time insights. Drive data-driven decisions.
+
+**Tech Stack:**  
+`PostgreSQL` • `Python (requests, sqlalchemy)` • `Yandex DataLens (RLS)` • `ETL` • `SQL (UPSERT, CTE)` • `REST API` • `cron` • `Git`
+
+**Open to:** Analytics Engineer, Senior BI Analyst, Data Consultant (remote)
+
+</details>
+
+---
+
+#SQL #Python #PostgreSQL #DataLens #DWH #ETL #AnalyticsEngineering
