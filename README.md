@@ -1,15 +1,16 @@
-<h2 align="center">Hi there, I'm <a>Roman</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Computer science student from Russia</h3>
+Hi 👋 I'm Roman Kabanov — **Analytics Engineer & BI Specialist** from Novosibirsk, Russia.
 
-🌱 I’m currently learning C# and Unity
+I design and implement **end-to-end analytics platforms** for mid-sized and large businesses:
+- **Data integration**: ETL/ELT pipelines from CRM, ads, and APIs (Python, Airbyte)
+- **Data modeling**: Star schema, fact/dim tables, aggregated marts
+- **DWH layer**: PostgreSQL (staging) → **ClickHouse** (analytics-optimized)
+- **BI & Visualization**: Yandex DataLens (with RLS), Looker Studio, Apache Superset
+- **Infrastructure**: Git-versioned SQL, YAML configs, documentation as code
 
-📫 How to reach me kabanovcontact@gmail.com
+I don’t just build dashboards — I build **scalable, reusable systems** that replace manual reporting and empower data-driven decisions.
 
-🌍 I speak Russian (native), English (not certified)
+🔗 **Portfolio & live dashboards**: https://datalens.yandex/ng5sj4tcxghsa  
+📧 **Reach me**: kabanovcontact@gmail.com  
+💼 **Open to**: Analytics Engineer, Senior BI Analyst, Data Consultant roles (remote)
 
-🤖 Languages:
-C++, C#
-
-🧰 My Tools:
-Unity, Visual Studio 2022, CLion, Qt 5.15.2, MySQL 8.0
+#ClickHouse #DataLens #Airbyte #SQL #Python #DWH #ETL #AnalyticsEngineering
