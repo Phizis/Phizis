@@ -5,28 +5,38 @@
 ---
 
 <details>
-<summary>🇷🇺 Русский (нажмите, чтобы развернуть)</summary>
+<summary>Русский</summary>
 
-> **Строю аналитические платформы «под ключ» — от сбора данных до дашбордов, которыми пользуется CEO.**  
-> Заменяю ручные отчёты на масштабируемые витрины, ускоряю принятие решений, внедряю data-driven культуру.
+Привет! Я Роман — строю **аналитические платформы от начала до конца**:  
+от выгрузки из CRM и API до дашбордов, которые используют руководители.
 
-**Технологии:**  
-`PostgreSQL` • `Python (requests, sqlalchemy)` • `Yandex DataLens (RLS)` • `ETL` • `SQL (UPSERT, CTE)` • `REST API` • `cron` • `Git`
+- **Сбор данных**: ETL на Python (requests, sqlalchemy), запуск по расписанию  
+- **Моделирование**: звёздная схема, факты, измерения, агрегированные витрины  
+- **DWH**: PostgreSQL — от raw до semantic-слоя, готового к быстрой аналитике  
+- **BI**: Yandex DataLens (с RLS), Looker Studio, Superset  
+- **Инфраструктура**: SQL под Git, документация как код, чёткие процессы  
 
-**Открыт к предложениям:** Analytics Engineer, Senior BI Analyst, Data Consultant (удалённо)
+Я не просто рисую графики — я создаю **масштабируемые системы**, которые заменяют Excel и дают уверенность в данных.
+
+Открыт к предложениям: Analytics Engineer, Senior BI Analyst, Data Consultant (удалённо)
 
 </details>
 
 <details>
-<summary>🇬🇧 English (click to expand)</summary>
+<summary>English</summary>
 
-> **I build end-to-end analytics platforms** — from data integration to C-level dashboards.  
-> Replace manual reporting with scalable, real-time insights. Drive data-driven decisions.
+Hi! I'm Roman — I build **end-to-end analytics platforms**:  
+from pulling data via CRM & APIs to dashboards used by C-level.
 
-**Tech Stack:**  
-`PostgreSQL` • `Python (requests, sqlalchemy)` • `Yandex DataLens (RLS)` • `ETL` • `SQL (UPSERT, CTE)` • `REST API` • `cron` • `Git`
+- **Data Integration**: ETL with Python (requests, sqlalchemy), scheduled via cron  
+- **Data Modeling**: star schema, fact/dimension tables, aggregated marts  
+- **DWH Layer**: PostgreSQL — from raw to semantic layer, optimized for BI  
+- **BI & Viz**: Yandex DataLens (with RLS), Looker Studio, Superset  
+- **Infra**: Git-versioned SQL, docs as code, clean workflows  
 
-**Open to:** Analytics Engineer, Senior BI Analyst, Data Consultant (remote)
+I don’t just make dashboards — I build **scalable, reusable systems** that replace manual work and drive confident decisions.
+
+Open to: Analytics Engineer, Senior BI Analyst, Data Consultant (remote)
 
 </details>
 
